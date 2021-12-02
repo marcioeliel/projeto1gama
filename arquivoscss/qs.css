@@ -1,0 +1,10 @@
+body {
+    background-image:url(../imagens/thelast.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(254, 254, 255);
+    
+}
+h1 {
+     text-align: center;
+}
